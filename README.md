@@ -1,5 +1,7 @@
 # $M^{2}DGAT$
 
+The proposed M2DGAT method has embedded multi-scale multi-view graph representation learning. With local-global integration, spatiotemporal dynamics tend to be more expressive than those in the previous DualGCN-GE architecture. Please refer to our [$M^{2}DGAT$](https://www.nature.com/articles/s41598-026-40636-x) for more details.
+
 ​	Motivated by multi-view modeling practices, this study proposes the STPD-DGAT method aims to capture disease-specific spatiotemporal embeddings from whole-blood RNA sequencing data, thus conducting progression modeling for PD. The main purpose of this STPD-DGAT method is to assess staging of PD with
 spatiotemporal embeddings.
 
